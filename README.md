@@ -22,4 +22,4 @@ Requirements:
 **TODO for the ToDo app**  
 
 * Enable multiple users  
-~~Clean-up / organize js code~~
+* ~~Clean-up / organize js code~~
