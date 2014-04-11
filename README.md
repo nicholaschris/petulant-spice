@@ -21,4 +21,5 @@ Requirements:
 
 **TODO for the ToDo app**  
 
-*Enable multiple users
+* Enable multiple users  
+* Clean-up / organize js code
