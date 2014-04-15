@@ -23,3 +23,7 @@ Requirements:
 
 * Enable multiple users  
 * ~~Clean-up / organize js code~~
+* Move angular elements in services file
+* create a service for todos
+* move controllers into own file
+* testing
